@@ -1,0 +1,7 @@
+gradio
+pandas
+snowflake-connector-python
+snowflake-sqlalchemy
+langchain
+langchain_community
+openai
