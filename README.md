@@ -38,3 +38,7 @@ This will launch the Gradio UI in your browser.
 - Convert Natural Language to SQL: Enter a natural language query, click "Get SQL Query", and see the SQL query and explanation.
 - Run SQL Query: Enter a SQL query and execute it to view the results.
 
+
+https://github.com/user-attachments/assets/0b69ba70-9480-4c29-b7da-7c0967aa3e84
+
+
