@@ -2,6 +2,8 @@
 
 This project uses **Gradio** to create a UI that interacts with a **Snowflake** database using **OpenAI's GPT-4** to convert natural language queries into SQL.
 
+See it deployed on HuggingFace [here](https://huggingface.co/spaces/moises-m-limon/text-to-sql-demo)
+
 ## Setup Instructions
 
 ### Prerequisites
